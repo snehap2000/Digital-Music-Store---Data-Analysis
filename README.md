@@ -3,6 +3,7 @@ Helping Digitial Music Store to optimize their business practices using MYSQL
 
 
 
+
 # Tools & Library Used
 www.mysql.com
 
@@ -10,9 +11,15 @@ www.mysql.com
 
 
 
+
 # Schema used 
 
 <img width="594" alt="schema_DM" src="https://github.com/user-attachments/assets/0e15a832-93f3-4c0f-abf4-d364848374c5" />
+
+
+
+
+
 
 
 
